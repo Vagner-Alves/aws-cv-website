@@ -1,2 +1,4 @@
-# aws-cv-website
-Static website hosted using aws products such as amazon s3, cloudfront, route53 etc.
+# Bem-vindo ao repositório de TCC do Grupo 4!
+
+Link do projeto rodando no Netlify:
+https://main--bucolic-hummingbird-24f776.netlify.app
